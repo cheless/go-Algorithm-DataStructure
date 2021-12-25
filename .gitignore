@@ -1,4 +1,5 @@
 # ignored files and folders
 .idea/
 .vscode/
-test*
+
+test
